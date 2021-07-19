@@ -77,9 +77,6 @@ module.exports = {
       dataAdClient: "ca-pub-2058306854838448",
     },
   },
-  plugins: [
-    'docusaurus-plugin-google-adsense',
-  ],
   presets: [
     [
       '@docusaurus/preset-classic',
