@@ -50,7 +50,7 @@ export default function Home() {
         <HomepageFeatures />
         <AdSense.Google
           client='ca-pub-2058306854838448'
-          slot='5078505226'
+          slot='9936187018'
           style={{ display: 'block' }}
           format='auto'
           responsive='true'
