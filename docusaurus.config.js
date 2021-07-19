@@ -30,6 +30,9 @@ module.exports = {
           position: 'right',
         },
       ],
+      googleAdsense: {
+        dataAdClient: "ca-pub-2058306854838448",
+      },
     },
     footer: {
       style: 'dark',
@@ -74,6 +77,9 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
   },
+  plugins: [
+    'docusaurus-plugin-google-adsense',
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
