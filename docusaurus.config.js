@@ -30,9 +30,6 @@ module.exports = {
           position: 'right',
         },
       ],
-      googleAdsense: {
-        dataAdClient: "ca-pub-2058306854838448",
-      },
     },
     footer: {
       style: 'dark',
@@ -75,6 +72,9 @@ module.exports = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
+    },
+    googleAdsense: {
+      dataAdClient: "ca-pub-2058306854838448",
     },
   },
   plugins: [
