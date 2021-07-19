@@ -32,6 +32,6 @@ sidebar_position: 7
 
 ## **文档**
 
-[完善教程](https://github.com/theme-nexmoe/docs)
+[完善教程](https://github.com/theme-nexmoe/hexo-docs/)
 
 如你所见，这个文档内容很少，因为没有人喜欢写文档。 如果你有充足的时间，并且十分乐意参加到贡献中来，文档无疑是项目中非常重要的一环。
