@@ -47,11 +47,11 @@ module.exports = {
           items: [
             {
               label: '快速开始',
-              to: '/docs/start',
+              to: '/start',
             },
             {
               label: '常见问题',
-              to: '/docs/faq',
+              to: '/faq',
             },
           ],
         },
