@@ -101,6 +101,14 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/theme-nexmoe/hexo-docs/edit/master/blog/',
+          /**
+           * 截断标记，可为正则表达式或字符串。
+           */
+          truncateMarker: /<!--\s*(more)\s*-->/,
+          /**
+           * 显示博文的估计阅读时间。
+           */
+          showReadingTime: false,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
