@@ -12,6 +12,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'theme-nexmoe', // Usually your GitHub org/user name.
   projectName: 'Hexo Theme Nexmoe', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'zh-cn',
+    locales: ['zh-cn'],
+  },
   themeConfig: {
     navbar: {
       title: 'Nexmoe',
@@ -99,6 +103,7 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          
         },
       },
     ],
