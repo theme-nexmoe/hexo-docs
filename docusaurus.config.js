@@ -94,6 +94,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/theme-nexmoe/hexo-docs/edit/master/',
+            routeBasePath: '/',
         },
         blog: {
           showReadingTime: true,

@@ -4,12 +4,6 @@ sidebar_position: 1
 
 # 快速开始
 
-:::info
-
-If you are a non-Chinese user, I recommend you to use Google Translate or deepl to translate this document.
-
-:::
-
 在使用 Nexmoe 之前，请仔细阅读 [Hexo 的官方文档](https://hexo.io/zh-cn/docs/)，完成对 Hexo 的安装，并完成对 `config.yml` 的基本配置（标题、介绍、作者、时区、语言等）
 
 ## 遇到问题怎么办？
