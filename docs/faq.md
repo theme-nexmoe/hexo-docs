@@ -31,4 +31,5 @@ Hexo 在写作的时候（***许多博客都是这样的\***），需要在文�
 
 *Hexo 在* ***`<!--more-->`*** *需要有一段内容*
 
-![img](https://gblobscdn.gitbook.com/assets%2F-M3W8P_3lbsBZW1wagFn%2F-M5femMReb7CyfVZoht0%2F-M5ffJoYNWT1HtC2L_0o%2F2020-04-24_18-12-55.png?alt=media&token=7eea3b22-eb38-41ee-9dfa-405565fa817f)
+![image-20210721115403445](faq/image-20210721115403445.png)
+

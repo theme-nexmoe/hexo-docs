@@ -27,7 +27,7 @@ search:
 - 打开你的博客配置文件，将`search`项下的`type`设置为`swiftype`
 - 转到你的Swiftype引擎仪表盘，进入`Install Search`，在你的安装代码（`install code`）的如图位置得到你的`swiftype-id`，并填入博客配置文件`search`项下的`id`项
 
-![img](https://gblobscdn.gitbook.com/assets%2F-M3W8P_3lbsBZW1wagFn%2Fsync%2Fa7d385bac726fa4ffcdc3c744e86ad1d127eedaf.jpeg?alt=media)
+![img](search/a7d385bac726fa4ffcdc3c744e86ad1d127eedaf.jpeg)
 
 例：
 

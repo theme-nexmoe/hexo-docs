@@ -24,4 +24,4 @@ sidebar_position: 3
 
 7️⃣ 在使用图标部分引用在矢量库的 class
 
-![img](https://gblobscdn.gitbook.com/assets%2F-M3W8P_3lbsBZW1wagFn%2F-M5jXUsMrqIzLp0sIb3z%2F-M5jYsbsxu2H50rfbYrG%2F2020-04-25_12-19-02.png?alt=media&token=2f67515b-b7ad-479b-a493-b805e61ac0d6)
+![img](icon/2020-04-25_12-19-02.png)

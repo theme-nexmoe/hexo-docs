@@ -106,5 +106,5 @@ coverHeight: 750
 
 效果如下
 
-![img](https://gblobscdn.gitbook.com/assets%2F-M3W8P_3lbsBZW1wagFn%2F-MTYW7-2vU2Zkpgev5wN%2F-MTYX6l-ry-Y2d6mnyN-%2FQQ%E5%9B%BE%E7%89%8720210215103021.png?alt=media&token=0aa51f33-f1a2-4a11-b376-5f071eb7326f)
+![img](article/QQ%E5%9B%BE%E7%89%8720210215103021.png)
 
