@@ -33,6 +33,7 @@ If you are a non-Chinese user, I recommend you to use Google Translate or deepl 
 ## 💻 贡献者
 
 ![贡献者](https://opencollective.com/hexo-theme-nexmoe/contributors.svg?width=890&button=false)
+
 ## 🎇 其他版本
 
 - Typecho：https://github.com/nexmoe/typecho-theme-nexmoe

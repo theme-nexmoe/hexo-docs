@@ -28,6 +28,7 @@ module.exports = {
           label: '文档',
         },
         {to: '/blog', label: '博客', position: 'left'},
+        {to: '/contribution', label: '参与贡献', position: 'left'},
         {
           href: 'https://github.com/theme-nexmoe/hexo-theme-nexmoe',
           label: 'GitHub',
