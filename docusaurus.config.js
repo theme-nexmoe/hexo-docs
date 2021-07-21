@@ -84,6 +84,14 @@ module.exports = {
     googleAdsense: {
       dataAdClient: "ca-pub-2058306854838448",
     },
+    algolia: {
+      apiKey: '97d0ec378a6740430371860e28d1f485',
+      indexName: 'nexmoe',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+    },
   },
   presets: [
     [
