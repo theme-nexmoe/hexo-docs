@@ -2653,8 +2653,7 @@ div[class*="docs-wrapper"] .row .col > .alert--warning {
 	font-weight: 600;
 }
 .navbar-sidebar .navbar-sidebar__brand,
-.navbar.navbar--dark,
-div[class^="announcementBarContent"] {
+.navbar.navbar--dark {
 	background-color: var(--deepdark);
 }
 .navbar .navbar__inner {

@@ -18,6 +18,11 @@ module.exports = {
     locales: ['zh-cn'],
   },
   themeConfig: {
+    announcementBar: {
+      id: 'language', // 用于辨别此消息的值。
+      backgroundColor: '#fafbfc', // 默认为 `#fff`.
+      content: 'If you are a non-Chinese user, I recommend you to use <a href="https://translate.google.com/translate?hl=&sl=zh-CN&tl=en&u=https://docs.nexmoe.com/">Google Translate</a> to translate this document.',
+    },
     navbar: {
       title: 'Nexmoe',
       
@@ -127,6 +132,7 @@ module.exports = {
   ],
   plugins: [
     path.resolve(__dirname, 'plugin/plugin-google-adsense'),
-    path.resolve(__dirname, 'plugin/plugin-baidu-tongji')
+    path.resolve(__dirname, 'plugin/plugin-baidu-tongji'),
+    '@docusaurus/plugin-ideal-image'
   ],
 };
