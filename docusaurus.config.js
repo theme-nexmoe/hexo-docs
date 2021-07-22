@@ -92,6 +92,9 @@ module.exports = {
       contextualSearch: true,
 
     },
+    baiduConfig: {
+      hashID: '41b04999ee3d67f2acc9ce741045e68d'
+    },
   },
   presets: [
     [
@@ -127,5 +130,6 @@ module.exports = {
   ],
   plugins: [
     path.resolve(__dirname, 'plugin-google-adsense'),
+    path.resolve(__dirname, 'plugin-baidu-tongji')
   ],
 };
