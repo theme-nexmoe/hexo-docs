@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## 使用 NPM 安装主题
 
-```
+```shell
 npm i hexo-theme-nexmoe
 ```
 
@@ -20,7 +20,7 @@ npm i hexo-theme-nexmoe
 
 运行如下命令安装
 
-```
+```shell
 npm i --save hexo-wordcount
 ```
 
@@ -36,7 +36,7 @@ npm i --save hexo-wordcount
 
 在站点根目录下运行下面的命令在本地启动一个 Hexo Server
 
-```
+```shell
 hexo s --debug
 ```
 
@@ -44,7 +44,7 @@ hexo s --debug
 
 当命令行输出下述内容时说明 Hexo 已经监听在本机的 4000 端口，使用浏览器访问 [http://localhost:4000](http://localhost:4000/) ，检查站点是否正确运行
 
-```
+```shell
 INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 ```
 
@@ -54,7 +54,7 @@ INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 
 使用 NPM 的 install 命令即可升级
 
-```
+```shell
 npm i hexo-theme-nexmoe
 ```
 

@@ -4,7 +4,7 @@
 
 在文章中插入以下内容
 
-```yaml
+```markdown
 {% gallery %}
 ![1](https://cdn.jsdelivr.net/gh/nexmoe/image@latest/20210207192753.jpg)
 ![1](https://cdn.jsdelivr.net/gh/nexmoe/image@latest/20210207192754.jpg)

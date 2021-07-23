@@ -14,7 +14,7 @@ Nexmoe目前支持 7 种的评论系统，它们分别是 Gitment、Gitalk、Val
 
 
 
-```
+```yaml
 comment: gitment
 ......
 gitment:
@@ -30,7 +30,7 @@ gitment:
 
 
 
-```
+```yaml
 comment: gitalk
 ......
 gitalk:
@@ -47,7 +47,7 @@ gitalk:
 
 
 
-```
+```yaml
 comment: valine
 ......
 valine: 
@@ -61,7 +61,7 @@ valine:
 
 
 
-```
+```yaml
 comment: disqus
 ......
 disqus:
@@ -78,7 +78,7 @@ disqus:
 
 
 
-```
+```yaml
 disqusjs:
   shortname: <shortname> ## 你的 Disqus shortname
   sitename: <sitename> ## 你站点的名称，将会显示在「评论基础模式」的 header 中；该配置应该和 Disqus Admin - Settings - General - Website Name 一致
@@ -94,7 +94,7 @@ disqusjs:
 
 
 
-```
+```yaml
 comment: changyan
 ......
 changyan:
@@ -107,7 +107,7 @@ changyan:
 
 
 
-```
+```html
 !-- 畅言公共 js 代码 start -->
 <script id="cy_cmt_num" src="https://changyan.sohu.com/upload/plugins/plugins.list.count.js?clientId={这个就是你的 APPID}">
 </script>
@@ -116,7 +116,7 @@ changyan:
 
 
 
-```
+```html
 <script>
 (function(){
 var appid = '{这个就是你的 APPID}';
@@ -133,7 +133,7 @@ window.document.write('<script id="changyan_mobile_js" charset="utf-8" src="http
 
 
 
-```
+```yaml
 comment: livere
 ......
 livere:
@@ -148,7 +148,7 @@ livere:
 
 
 
-```
+```yaml
 DiscussBot:
   id: <id> ## 站点id
   comments: 5 ## 可能是限制每位用户单页面评论最多条数？

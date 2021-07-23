@@ -16,7 +16,7 @@ Nexmoe现在支持两种搜索引擎，网页搜索引擎（如百度、Bing）�
 
 
 
-```
+```yaml
 search: 
     type: swiftype
     url: https://cn.bing.com/search?q=site:nexmoe.com
@@ -31,7 +31,7 @@ search:
 
 例：
 
-```
+```yaml
 search:
     type: swiftype
     url: ... 

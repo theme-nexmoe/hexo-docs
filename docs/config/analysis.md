@@ -17,7 +17,7 @@ sidebar_position: 2
 
 
 
-```
+```html
 <script src="//s95.cnzz.com/z_stat.php?id=<%= theme.analytics.cnzz_site_id %>&web_id={你的站点 ID}" language="JavaScript"></script>
 ```
 
@@ -35,7 +35,7 @@ sidebar_position: 2
 
 
 
-```
+```html
 <script>
     var _hmt = _hmt || [];
     (function() {var hm = document.createElement('script');
@@ -54,8 +54,9 @@ sidebar_position: 2
 
 
 
-```
+```html
 <script type="text/javascript" src="//js.users.51.la/{这一长串就是你的 ID}.js"></script>
 ```
 
 把那一长串 ID 设置在 `la_site_id` 中。
+
