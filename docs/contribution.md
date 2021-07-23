@@ -30,12 +30,20 @@ sidebar_position: 7
 
 ## 文档
 
-[完善教程](https://github.com/theme-nexmoe/hexo-docs/)
+[完善教程](https://github.com/theme-nexmoe/hexo-docs/)	
 
 如你所见，这个文档内容很少，因为没有人喜欢写文档。 如果你有充足的时间，并且十分乐意参加到贡献中来，文档无疑是项目中非常重要的一环。
 
+本站使用 [Docusaurus，点击查看使用文档](https://docusaurus.io/)
+
 ## 投稿
 
-[在 Nexmoe 的博客投稿](/blog)
+[在 Nexmoe 的博客投稿](https://github.com/theme-nexmoe/hexo-docs/tree/master/blog)	
 
-关于 Nexmoe 的使用教程，或者基于 Nexmoe 的其他版本等等内容可以在这里投稿。
+关于 Nexmoe 的使用教程，或者基于 Nexmoe 的其他版本等等内容可以在这里投稿。[如何添加文章？](https://docusaurus.io/zh-CN/docs/blog#adding-posts)
+
+:::tip
+
+本站使用 `<!--more-->`  为摘要，与 Hexo 相同，而不是 `<!--truncate-->`
+
+:::
