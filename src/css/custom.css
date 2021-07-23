@@ -1782,7 +1782,7 @@ html {
 	padding: var(--ifm-menu-link-padding-vertical)
 		var(--ifm-menu-link-padding-horizontal);
 	position: relative;
-	padding: 8px 12px;
+	padding: 8px 9px;
 }
 .menu__link,
 .menu__link:hover {
@@ -2819,7 +2819,7 @@ aside[class^="docSidebarContainer"] {
 	color: var(--subtle) !important;
 	font-size: 15px !important;
 	font-weight: 700 !important;
-	padding: 5px 12px !important;
+	padding: 5px 9px !important;
 }
 .menu__list .menu__link--sublist:after {
 	background-size: 1.66rem 1.66rem;
@@ -2827,11 +2827,8 @@ aside[class^="docSidebarContainer"] {
 	margin-top: -1px;
 }
 .menu__list .menu__link--active.active {
-	border-left-color: var(--ifm-menu-color-active) !important;
-	border-left-style: solid;
-	border-left-width: 4px;
 	font-weight: 700 !important;
-	padding-left: 8px;
+	padding-left: 9px;
 }
 .banner-native-code-required p,
 .menu__list .menu__list-item--collapsed .menu__list {
