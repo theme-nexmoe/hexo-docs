@@ -1782,6 +1782,7 @@ html {
 	padding: var(--ifm-menu-link-padding-vertical)
 		var(--ifm-menu-link-padding-horizontal);
 	position: relative;
+	padding: 8px 12px;
 }
 .menu__link,
 .menu__link:hover {
@@ -2797,8 +2798,8 @@ aside[class^="docSidebarContainer"] {
 	margin-bottom: 10px;
 }
 .menu__list .menu__list-item {
-	margin-bottom: 2px;
-	margin-top: 2px;
+	margin-bottom: 7px;
+	margin-top: 7px;
 	-webkit-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
