@@ -107,7 +107,20 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/theme-nexmoe/hexo-docs/edit/master/',
-            routeBasePath: '/',
+          /**
+           * 您站点文档部分的 URL 路由。
+           * *请务必不要*添加斜杠。
+           * 注：您可以设置为 `/` 以在根目录提供文档。
+           */
+          routeBasePath: '/',
+          /**
+           * 是否显示最近更新文档的作者。
+           */
+          showLastUpdateAuthor: true,
+          /**
+           * 是否显示文档的最新更新日期。
+           */
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -125,7 +138,6 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-          
         },
       },
     ],
