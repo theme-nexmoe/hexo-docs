@@ -8,7 +8,7 @@ sidebar_position: 2
 
 有时候运行错误会有 wordcount 这一关键词的报错，运行以下命令即可
 
-```sh
+```shell
 npm i --save hexo-wordcount
 ```
 
