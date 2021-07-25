@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 快速开始
 
-::: tip
+:::tip
 你也可以用本项目的示例快速起步 [Nexmoe 主题 Hexo 示例，帮助你快速起步](https://github.com/theme-nexmoe/hexo-theme-nexmoe-example)
 :::
 
