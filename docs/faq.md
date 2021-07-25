@@ -19,6 +19,8 @@ npm i --save hexo-wordcount
 ```yaml
 highlight:
   enable: true
+  hljs: true
+  auto_detect: true
 ```
 
 更多内容：[代码高亮 | Hexo](https://hexo.io/zh-cn/docs/syntax-highlight#Highlight-js)
