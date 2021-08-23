@@ -16,16 +16,12 @@ sidebar_position: 1
 npm i hexo-theme-nexmoe
 ```
 
-## 安装 WordCount（必须）
+## 安装依赖
 
-其他主题不同，安装 Nexmoe 需要额外的步骤
-
-主题默认已经集成了文章【字数统计】、【阅读时长】统计功能，需要WordCount的支持
-
-运行如下命令安装
+运行以下命令安装 Nexmoe 的依赖
 
 ```shell
-npm i --save hexo-wordcount
+npm install
 ```
 
 ## 启用 Nexmoe
