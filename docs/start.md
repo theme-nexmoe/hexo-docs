@@ -11,7 +11,7 @@ sidebar_position: 1
 在使用 Nexmoe 之前，请仔细阅读 [Hexo 的官方文档](https://hexo.io/zh-cn/docs/)，完成对 Hexo 的安装，并完成对 `config.yml` 的基本配置（标题、介绍、作者、时区、语言等）
 
 ## 使用 NPM 安装主题
-
+在 Hexo 的根目录下运行
 ```shell
 npm i hexo-theme-nexmoe
 ```
