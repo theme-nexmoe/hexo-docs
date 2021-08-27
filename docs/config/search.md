@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## **开始**
 
-Nexmoe现在支持两种搜索引擎，网页搜索引擎（如百度、Bing）和 Swiftype
+Nexmoe现在支持三种搜索引擎，网页搜索引擎（如百度、Bing）、本地搜索和 Swiftype
 
 ## **使用网页搜索引擎**
 
@@ -21,6 +21,44 @@ search:
     type: swiftype
     url: https://cn.bing.com/search?q=site:nexmoe.com
 ```
+
+## **使用本地搜索**
+
+- 打开你的博客配置文件，将`search`项下的`type`设置为`local`
+
+例：
+
+
+
+```yaml
+search: 
+    type: local
+```
+
+- 打开你的站点配置文件，添加以下字段：
+
+```yaml
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true 
+    date: false 
+    path: true 
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: false
+```
+
+> ⚠请确保你已经安装了`hexo-generator-json-content`插件！
 
 ## **使用 Swiftype**
 

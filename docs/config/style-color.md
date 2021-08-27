@@ -6,6 +6,7 @@ function:
     ...:
     darkmode: true
 ```
+> 由于技术性问题，现`disqus`、`disqusjs`、`livere`均不适配暗色主题
 ## 自定义配色方案
 Nexmoe为各位预备了一套完备的配色方案，但如果各位有自定义配色的需求，可以在站点主题配置中设置。
 ```yml
