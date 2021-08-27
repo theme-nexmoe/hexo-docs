@@ -35,6 +35,29 @@ search:
     type: local
 ```
 
+- 打开你的站点配置文件，添加以下字段：
+
+```yaml
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true 
+    date: false 
+    path: true 
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: false
+```
+
 ## **使用 Swiftype**
 
 - 打开你的博客配置文件，将`search`项下的`type`设置为`swiftype`
