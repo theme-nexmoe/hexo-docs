@@ -58,6 +58,8 @@ jsonContent:
     tags: false
 ```
 
+> ⚠请确保你已经安装了`hexo-generator-json-content`插件！
+
 ## **使用 Swiftype**
 
 - 打开你的博客配置文件，将`search`项下的`type`设置为`swiftype`
