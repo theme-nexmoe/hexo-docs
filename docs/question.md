@@ -8,25 +8,21 @@ sidebar_position: 9
 
 ## 1、查阅 Hexo 官方文档
 
-一般遇到的问题都是对 Hexo 不熟悉导致的，本主题作者也不是很了解 Hexo，所以经常会去看官方文档。
-
-Hexo 官方文档解决大部分问题！
+大部分用户遇到的问题都是在使用 Hexo 时的问题，查阅搜索 Hexo 官方文档即可找到解决方法
 
 请仔细阅读 [Hexo 的官方文档](https://hexo.io/zh-cn/docs/)
 
-请仔细阅读 [Hexo 的官方文档](https://hexo.io/zh-cn/docs/)
+## 2、搜索本文档
 
-请仔细阅读 [Hexo 的官方文档](https://hexo.io/zh-cn/docs/)
-
-## 2、查阅本文档
-
-本文档内容较少，只解决常见问题
+本文档内容较少，只解决主题的问题
 
 ## 3、搜索 GitHub 中的 issue
 
 很多问题在issue中也能找到答案 [前往搜索 issue](https://github.com/theme-nexmoe/hexo-theme-nexmoe/issues)
 
 ## 4、使用搜索引擎
+
+搜索引擎往往能帮助我们
 
 ## 5、付费提问
 
