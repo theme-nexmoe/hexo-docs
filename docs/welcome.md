@@ -29,18 +29,6 @@ If you are a non-Chinese user, I recommend you to use Google Translate or deepl 
  - 图片瀑布流
  - 社交按钮
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2058306854838448"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2058306854838448"
-     data-ad-slot="2358479222"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## 💻 演示
 
 [视频演示点我](https://www.bilibili.com/video/BV1Gv411J79T)
