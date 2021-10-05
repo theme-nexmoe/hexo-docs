@@ -120,7 +120,7 @@ module.exports = {
           /**
            * 是否显示文档的最新更新日期。
            */
-          showLastUpdateTime: true,
+          showLastUpdateTime: false,
         },
         blog: {
           showReadingTime: true,
