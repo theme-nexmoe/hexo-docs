@@ -8,7 +8,7 @@ author_image_url: https://avatar.mixcm.com/github/nexmoe
 
 　　[Nexmoe 博客主题](https://github.com/theme-nexmoe/hexo-theme-nexmoe)是我所编写的一个基于 Hexo 的博客模板。但他不仅仅是一个模板，更多的，他是我的作品。他是一个艺术作品。
 
-
+<!--more-->
 
 > **艺术**（[拉丁语](https://zh.wikipedia.org/wiki/拉丁語)：Ars；[法语](https://zh.wikipedia.org/wiki/法語)、英语：Art；[西班牙语](https://zh.wikipedia.org/wiki/西班牙語)、葡萄牙语：Arte；德语：Kunst）指凭借技巧、意愿、[想象力](https://zh.wikipedia.org/wiki/想象力)、经验等综合人为因素的融合与平衡，以创作隐含美学的器物、环境、影像、动作或声音的表达模式，也指和他人分享美的感觉或有深意的[情感](https://zh.wikipedia.org/wiki/情感)与[意识](https://zh.wikipedia.org/wiki/意識)的人类用以表达既有感知且将个人或群体体验沉淀与展现的过程[[1\]](https://zh.wikipedia.org/wiki/艺术#cite_note-Britannica2002-1)。
 
