@@ -62,6 +62,7 @@ If you are a non-Chinese user, I recommend you to use Google Translate or deepl 
 
 ## 🍻 后续更新
 star 以及 issue 是我更新的动力!
+
 新闻聊天划水群： [482634342 轻惋漫社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 
 
 ## 社区
