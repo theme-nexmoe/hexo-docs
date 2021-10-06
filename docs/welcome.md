@@ -62,12 +62,11 @@ If you are a non-Chinese user, I recommend you to use Google Translate or deepl 
 
 ## 🍻 后续更新
 star 以及 issue 是我更新的动力!
-
-新闻聊天划水群： [482634342 轻惋漫社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 
+新闻聊天划水群： [482634342 轻惋摸🐟社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 
 
 ## 社区
 
-讨论主题，进主题讨论群：614621637
+讨论主题，进主题讨论群 614621637：[Hexo Nexmoe 主题](https://jq.qq.com/?_wv=1027&k=1YL6FmUS)
 
 Telegram 群：https://t.me/hexo_theme_nexmoe
 
