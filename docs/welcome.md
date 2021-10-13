@@ -13,6 +13,7 @@ If you are a non-Chinese user, I recommend you to use Google Translate or deepl 
 
 ## 支付宝扫码领红包
 红包可用于支付时抵扣现金
+
 ![](https://files.catbox.moe/rxm5mp.jpg)
 
 | ![homepage](https://user-images.githubusercontent.com/16796652/134768469-52d2426b-5c7c-4a46-8f0e-064361044d88.png) | ![archive](https://user-images.githubusercontent.com/16796652/134768465-a578b70e-38f2-4266-97e7-f0b85bd86348.png) |
