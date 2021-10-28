@@ -12,6 +12,11 @@ If you are a non-Chinese user, I recommend you to use Google Translate or deepl 
 :::
 
 ## 来试试我的新项目
+https://shu.nexmoe.com/
+
+省事、高效的新一代新建标签页
+
+无需任何操作，只需要管理好你的收藏夹。小舒同学就会自动地用你的书签生成一个新建标签页面。
 
 [![](https://user-images.githubusercontent.com/16796652/139290295-4f3b7e8a-3d71-4597-b18c-9ad625bbdc72.png)](https://shu.nexmoe.com/ "![](https://user-images.githubusercontent.com/16796652/139290295-4f3b7e8a-3d71-4597-b18c-9ad625bbdc72.png)")
 
