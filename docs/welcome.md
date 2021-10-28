@@ -11,10 +11,9 @@ If you are a non-Chinese user, I recommend you to use Google Translate or deepl 
 
 :::
 
-## 支付宝扫码领红包
-红包可用于支付时抵扣现金
+## 来试试我的新项目
 
-![](https://files.catbox.moe/g4sqg3.jpg)
+[![](https://user-images.githubusercontent.com/16796652/139290295-4f3b7e8a-3d71-4597-b18c-9ad625bbdc72.png)](https://shu.nexmoe.com/ "![](https://user-images.githubusercontent.com/16796652/139290295-4f3b7e8a-3d71-4597-b18c-9ad625bbdc72.png)")
 
 | ![homepage](https://user-images.githubusercontent.com/16796652/134768469-52d2426b-5c7c-4a46-8f0e-064361044d88.png) | ![archive](https://user-images.githubusercontent.com/16796652/134768465-a578b70e-38f2-4266-97e7-f0b85bd86348.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
