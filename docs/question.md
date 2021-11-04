@@ -24,7 +24,12 @@ sidebar_position: 9
 
 搜索引擎往往能帮助我们
 
-## 5、付费提问
+## 5、社区提问
+有使用问题请在这里提问：https://github.com/theme-nexmoe/hexo-theme-nexmoe/discussions
+也可以进主题讨论群 614621637：[Hexo Nexmoe 主题](https://jq.qq.com/?_wv=1027&k=1YL6FmUS)
+Telegram 群：https://t.me/hexo_theme_nexmoe
+
+## 6、付费提问
 
 |                           安装援助                           |                           普通提问                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
