@@ -27,17 +27,6 @@ https://shu.nexmoe.com/
 | 友情链接                                                     | 图片瀑布流                                                   |
 
 
-
-## ✨ 特性
- - 图片懒加载
- - 内置多语言
- - 支持多款评论插件
- - 网页访问统计
- - 侧栏备案信息
- - 灯箱大图
- - 图片瀑布流
- - 社交按钮
-
 ## 💻 演示
 
 [视频演示点我](https://www.bilibili.com/video/BV1Gv411J79T)
@@ -65,13 +54,5 @@ https://shu.nexmoe.com/
 ## 🍻 后续更新
 star 以及 issue 是我更新的动力!
 新闻聊天划水群： [482634342 轻惋摸🐟社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 
-
-## 社区
-
-讨论主题，进主题讨论群 614621637：[Hexo Nexmoe 主题](https://jq.qq.com/?_wv=1027&k=1YL6FmUS)
-
-Telegram 群：https://t.me/hexo_theme_nexmoe
-
-社区讨论：https://github.com/theme-nexmoe/hexo-theme-nexmoe/discussions
      
 [![Powered By Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg "Powered By Vercel")](https://vercel.com/?utm_source=theme-nexmoe&utm_campaign=oss "Powered By Vercel")
