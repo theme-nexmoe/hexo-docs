@@ -20,7 +20,7 @@ sidebar_position: 7
 
 [报告错误](https://github.com/theme-nexmoe/hexo-theme-nexmoe/issues/new)
 
-这对你没任何技术要求，只需要提交你的建议，还有你发现的 BUG，就足以。
+这对你没任何技术要求，只需要提交你发现的 BUG，就足以。
 
 ## Pull Request（PR）
 
