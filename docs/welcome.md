@@ -53,6 +53,6 @@ https://shu.nexmoe.com/
 
 ## 🍻 后续更新
 star 以及 issue 是我更新的动力!
-新闻聊天划水群： [482634342 轻惋摸🐟社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 
+新闻聊天划水群（本群不讨论主题）： [482634342 轻惋摸🐟社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 
      
 [![Powered By Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg "Powered By Vercel")](https://vercel.com/?utm_source=theme-nexmoe&utm_campaign=oss "Powered By Vercel")
