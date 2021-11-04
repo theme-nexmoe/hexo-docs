@@ -18,6 +18,8 @@
  import {MainHeading} from '@theme/Heading';
  import styles from './styles.module.css';
  import { DiscussionEmbed } from 'disqus-react';
+ import { Giscus } from '@giscus/react';
+
  
  function DocItem(props) {
    const {content: DocContent, versionMetadata} = props;
@@ -117,14 +119,17 @@
              </article>
  
              <DocPaginator metadata={metadata} />
-             <DiscussionEmbed
-             shortname='hexo-theme-nexmoe'
-             config={
-             {
-             language: 'zh'
-             }
-               }
-             />
+             <Giscus
+              repo="theme-nexmoe/hexo-docs"
+              repoId="MDEwOlJlcG9zaXRvcnkzODMyOTQ2MTk="
+              category="General"
+              categoryId="DIC_kwDOFticm84B_t-k"
+              mapping="title"
+              term="..."
+              reactionsEnabled="1"
+              emitMetadata="0"
+              theme="light"
+            />
            </div>
          </div>
          {renderTocDesktop && (
