@@ -53,8 +53,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: '快速开始',
-              to: '/start',
+              label: '我有问题',
+              to: '/question',
             },
             {
               label: '常见问题',
@@ -68,6 +68,14 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/theme-nexmoe/hexo-theme-nexmoe',
+            },
+            {
+              label: '论坛',
+              href: 'https://github.com/theme-nexmoe/hexo-theme-nexmoe/discussions',
+            },
+            {
+              label: 'QQ群',
+              href: 'https://jq.qq.com/?_wv=1027&k=1YL6FmUS',
             },
           ],
         },
