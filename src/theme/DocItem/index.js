@@ -18,8 +18,8 @@
  import {MainHeading} from '@theme/Heading';
  import styles from './styles.module.css';
  import { Giscus } from '@giscus/react';
+ import AdSense from 'react-adsense';
 
- 
  function DocItem(props) {
    const {content: DocContent, versionMetadata} = props;
    const {metadata, frontMatter} = DocContent;
@@ -94,7 +94,10 @@
                  See https://github.com/facebook/docusaurus/pull/4882#issuecomment-853021120
                  */}
                  {shouldAddTitle && <MainHeading>{title}</MainHeading>}
- 
+                  <AdSense.Google
+                      client='ca-pub-2058306854838448'
+                      slot='2358479222'
+                  />
                  <DocContent />
                </div>
  
@@ -118,6 +121,10 @@
              </article>
  
              <DocPaginator metadata={metadata} />
+              <AdSense.Google
+                client='ca-pub-2058306854838448'
+                slot='6149545886'
+              />
              <Giscus
               repo="theme-nexmoe/hexo-docs"
               repoId="MDEwOlJlcG9zaXRvcnkzODMyOTQ2MTk="
