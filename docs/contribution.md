@@ -47,3 +47,9 @@ sidebar_position: 7
 本站使用 `<!--more-->`  为摘要，与 Hexo 相同，而不是 `<!--truncate-->`
 
 :::
+
+## 参与社区
+
+参与社区讨论，同样也是对该项目的支持与贡献
+
+https://github.com/theme-nexmoe/hexo-theme-nexmoe/discussions
