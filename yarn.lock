@@ -2396,10 +2396,10 @@
   resolved "https://registry.npmjs.org/@endiliey/react-ideal-image/-/react-ideal-image-0.0.11.tgz#dc3803d04e1409cf88efa4bba0f67667807bdf27"
   integrity sha512-QxMjt/Gvur/gLxSoCy7VIyGGGrGmDN+VHcXkN3R2ApoWX0EYUE+hMgPHSW/PV6VVebZ1Nd4t2UnGRBDihu16JQ==
 
-"@giscus/react@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@giscus/react/-/react-1.0.0.tgz#1c77347372af2d54bdd711dd5445a338f45bfcaa"
-  integrity sha512-KPTGG106meUCRH18IXCZbu4Fdwz3NDnNoesCItIkcYv6wu1ZiWbfeSkuiC8z6sEw+I+JSlXqseRXtjygBy7GJA==
+"@giscus/react@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@giscus/react/-/react-1.0.1.tgz#3fae2b5e00912a76cb136679f6229d3d6ea28898"
+  integrity sha512-vViRGjfmDy9xvRIx+6+hocL3iAipbKx4gxtSpQBzOksDwnZS0QbB+r19bYQ08vw8CfHRwE6ws8AOO9yEUrzUyQ==
   dependencies:
     iframe-resizer-react "^1.1.0"
 
