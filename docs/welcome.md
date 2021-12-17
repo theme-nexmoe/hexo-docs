@@ -11,10 +11,10 @@ If you are a non-Chinese user, I recommend you to use Google Translate or deepl 
 
 :::
 
-## 来试试我的新项目
-只需管理好你的收藏夹 https://shu.nexmoe.com/
+## 我们曾经费尽心思折腾我们的主页，却从来没好好整理过我们的收藏夹。
+https://xiaoshu.app/
 
-我们曾经费尽心思折腾我们的主页，却从来没好好整理过我们的收藏夹。 小舒同学是省事、高效的新一代新建标签页浏览器插件， 根据你的收藏夹生成新建标签页。 可以作为你的浏览器主页也可以仅仅是新建标签页。 但从此以后再也不需要管理收藏夹的同时还要额外管理一个主页了
+ 小舒同学是省事、高效的新一代新建标签页浏览器插件， 根据你的收藏夹生成新建标签页。 可以作为你的浏览器主页也可以仅仅是新建标签页。 但从此以后再也不需要管理收藏夹的同时还要额外管理一个主页了
 
 [![](https://user-images.githubusercontent.com/16796652/139290295-4f3b7e8a-3d71-4597-b18c-9ad625bbdc72.png)](https://shu.nexmoe.com/ "![](https://user-images.githubusercontent.com/16796652/139290295-4f3b7e8a-3d71-4597-b18c-9ad625bbdc72.png)")
 
