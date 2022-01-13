@@ -34,7 +34,7 @@ https://xiaoshu.app/
 | 站点                                  | 状态                                                         |
 | ------------------------------------- | ------------------------------------------------------------ |
 | [折影轻梦](https://nexmoe.com/)       | ![折影轻梦](https://img.shields.io/website?url=https://nexmoe.com/) |
-| [官方示例](https://hexo-theme-nexmoe-example.vercel.app/)   | ![官方示例](https://img.shields.io/website?url=https://hexo-theme-nexmoe-example.vercel.app/)  |
+| [官方示例](https://hexo-theme-nexmoe-example.pages.dev/)   | ![官方示例](https://img.shields.io/website?url=https://hexo-theme-nexmoe-example.pages.dev/)  |
 | [糖羽仙](https://www.tangyuxian.com/) | ![萌糖官方网站](https://img.shields.io/website?url=https://www.tangyuxian.com/)  |
 | [深海小涛](https://hexo.xtaolink.cn/) | ![深海小涛](https://img.shields.io/website?url=https://hexo.xtaolink.cn/)  |
 | [西瓜星 🍉✨](https://suikastar.com/)   | ![西瓜星 🍉✨](https://img.shields.io/website?url=https://suikastar.com/)  |
