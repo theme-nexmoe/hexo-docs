@@ -126,10 +126,10 @@
                 slot='6149545886'
               />
              <Giscus
-              repo="theme-nexmoe/hexo-docs"
-              repoId="MDEwOlJlcG9zaXRvcnkzODMyOTQ2MTk="
+              repo="theme-nexmoe/hexo-theme-nexmoe"
+              repoId="MDEwOlJlcG9zaXRvcnkxOTgwMTcxNzc="
               category="General"
-              categoryId="DIC_kwDOFticm84B_t-k"
+              categoryId="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyMDk4ODI2"
               mapping="title"
               term="..."
               reactionsEnabled="1"
