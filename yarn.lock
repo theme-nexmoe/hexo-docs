@@ -2883,12 +2883,12 @@
   resolved "https://registry.npmjs.org/@endiliey/react-ideal-image/-/react-ideal-image-0.0.11.tgz#dc3803d04e1409cf88efa4bba0f67667807bdf27"
   integrity sha512-QxMjt/Gvur/gLxSoCy7VIyGGGrGmDN+VHcXkN3R2ApoWX0EYUE+hMgPHSW/PV6VVebZ1Nd4t2UnGRBDihu16JQ==
 
-"@giscus/react@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@giscus/react/-/react-1.0.1.tgz#3fae2b5e00912a76cb136679f6229d3d6ea28898"
-  integrity sha512-vViRGjfmDy9xvRIx+6+hocL3iAipbKx4gxtSpQBzOksDwnZS0QbB+r19bYQ08vw8CfHRwE6ws8AOO9yEUrzUyQ==
+"@giscus/react@2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@giscus/react/-/react-2.0.5.tgz#70623df23618d1a4dcee4e9e076137cbd9843484"
+  integrity sha512-QTK4Buv+TqSJx9wovjANW130sFxnZ4/xtm2fEZifNSGaEVeT0AqfRM9Roe6n8OaJhBz5hZnlUpFWUZeHnTuu+A==
   dependencies:
-    iframe-resizer-react "^1.1.0"
+    giscus "^1.0.5"
 
 "@hapi/hoek@^9.0.0":
   version "9.2.0"
@@ -2937,6 +2937,11 @@
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.3.tgz#0300943770e04231041a51bd39f0439b5c7ab4f0"
   integrity sha512-nkalE/f1RvRGChwBnEIoBfSEYOXnCRdleKuv6+lePbMDrMZXeDQnqak5XDOeBgrPPyPfAdcCu/B5z+v3VhplGg==
+
+"@lit/reactive-element@^1.3.0":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@lit/reactive-element/-/reactive-element-1.3.2.tgz#43e470537b6ec2c23510c07812616d5aa27a17cd"
+  integrity sha512-A2e18XzPMrIh35nhIdE4uoqRzoIpEU5vZYuQN4S3Ee1zkGdYC27DP12pewbw/RLgPHzaE4kx/YqxMzebOpm0dA==
 
 "@mdx-js/mdx@^1.6.22":
   version "1.6.22"
@@ -3423,6 +3428,11 @@
   dependencies:
     "@types/node" "*"
 
+"@types/trusted-types@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@types/trusted-types/-/trusted-types-2.0.2.tgz#fc25ad9943bcac11cceb8168db4f275e0e72e756"
+  integrity sha512-F5DIZ36YVLE+PN+Zwws4kJogq47hNgX3Nx6WyDJ3kcplxyke3XIzB8uK5n/Lpm1HBsbGzd6nmGehL8cPekP+Tg==
+
 "@types/unist@*", "@types/unist@^2.0.0", "@types/unist@^2.0.2", "@types/unist@^2.0.3":
   version "2.0.6"
   resolved "https://registry.npmjs.org/@types/unist/-/unist-2.0.6.tgz#250a7b16c3b91f672a24552ec64678eeb1d3a08d"
@@ -3837,13 +3847,6 @@ asap@~2.0.3:
   resolved "https://registry.npmjs.org/asap/-/asap-2.0.6.tgz#e50347611d7e690943208bbdafebcbc2fb866d46"
   integrity sha1-5QNHYR1+aQlDIIu9r+vLwvuGbUY=
 
-async@^2.6.2:
-  version "2.6.4"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
-  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
-  dependencies:
-    lodash "^4.17.14"
-    
 at-least-node@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
@@ -5788,6 +5791,13 @@ get-stream@^6.0.0:
   resolved "https://registry.npmjs.org/get-stream/-/get-stream-6.0.1.tgz#a262d8eef67aced57c2852ad6167526a43cbf7b7"
   integrity sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg==
 
+giscus@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/giscus/-/giscus-1.0.5.tgz#e526579bf1da6a394e23a8ac9f72a629825524d5"
+  integrity sha512-jg+4qUtyn2r9gCZJthbgPn/hLaoZAcZVhWx6d7+TYrrojMjAltrlSzYdsL++4iutVmGEYktp+nUJn2rQgZzvTg==
+  dependencies:
+    lit "^2.2.4"
+
 github-from-package@0.0.0:
   version "0.0.0"
   resolved "https://registry.npmjs.org/github-from-package/-/github-from-package-0.0.0.tgz#97fb5d96bfde8973313f20e8288ef9a167fa64ce"
@@ -6275,19 +6285,6 @@ ieee754@^1.1.13:
   version "1.2.1"
   resolved "https://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz#8eb7a10a63fff25d15a57b001586d177d1b0d352"
   integrity sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==
-
-iframe-resizer-react@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.npmjs.org/iframe-resizer-react/-/iframe-resizer-react-1.1.0.tgz#5009e019b7a5c7f1c009bff5bcdf0dbf33557465"
-  integrity sha512-FrytSq91AIJaDgE+6uK/Vdd6IR8CrwLoZ6eGmL2qQMPTzF0xlSV2jaSzRRUh5V2fttD7vzl21jvBl97bV40eBw==
-  dependencies:
-    iframe-resizer "^4.3.0"
-    warning "^4.0.3"
-
-iframe-resizer@^4.3.0:
-  version "4.3.2"
-  resolved "https://registry.npmjs.org/iframe-resizer/-/iframe-resizer-4.3.2.tgz#42dd88345d18b9e377b6044dddb98c664ab0ce6b"
-  integrity sha512-gOWo2hmdPjMQsQ+zTKbses08mDfDEMh4NneGQNP4qwePYujY1lguqP6gnbeJkf154gojWlBhIltlgnMfYjGHWA==
 
 ignore@^5.1.4:
   version "5.1.8"
@@ -6786,6 +6783,30 @@ lines-and-columns@^1.1.6:
   version "1.1.6"
   resolved "https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
+
+lit-element@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/lit-element/-/lit-element-3.2.0.tgz#9c981c55dfd9a8f124dc863edb62cc529d434db7"
+  integrity sha512-HbE7yt2SnUtg5DCrWt028oaU4D5F4k/1cntAFHTkzY8ZIa8N0Wmu92PxSxucsQSOXlODFrICkQ5x/tEshKi13g==
+  dependencies:
+    "@lit/reactive-element" "^1.3.0"
+    lit-html "^2.2.0"
+
+lit-html@^2.2.0:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/lit-html/-/lit-html-2.2.4.tgz#95edc7f060743a798303b8e48e331c32ddbeb179"
+  integrity sha512-IPY0V0z/QWcTduxb6DlP46Un8n6tG+mHSAijGcPozfXTjVkvFLN4/irPzthtq/eC8RU+7CUqh6h4KB7tnRPJfg==
+  dependencies:
+    "@types/trusted-types" "^2.0.2"
+
+lit@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/lit/-/lit-2.2.4.tgz#4907d071a427620b83653e39a1664dbdacbfb982"
+  integrity sha512-O7t+uizo1/Br0y+5RaWRzPkd4MsoL4XY2eq7n2wrESyCCjeagq4ERZKsyKX40jbmsz4bAAs7/0qNRX11TuXzoA==
+  dependencies:
+    "@lit/reactive-element" "^1.3.0"
+    lit-element "^3.2.0"
+    lit-html "^2.2.0"
 
 loader-runner@^4.2.0:
   version "4.2.0"
@@ -10012,13 +10033,6 @@ wait-on@^6.0.1:
     lodash "^4.17.21"
     minimist "^1.2.5"
     rxjs "^7.5.4"
-
-warning@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.npmjs.org/warning/-/warning-4.0.3.tgz#16e9e077eb8a86d6af7d64aa1e05fd85b4678ca3"
-  integrity sha512-rpJyN222KWIvHJ/F53XSZv0Zl/accqHR8et1kpaMTD/fLCRxtV8iX8czMzY7sVZupTI3zcUTg8eycS2kNF9l6w==
-  dependencies:
-    loose-envify "^1.0.0"
 
 watchpack@^2.3.1:
   version "2.3.1"
