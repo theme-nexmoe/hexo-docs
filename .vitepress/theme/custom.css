@@ -1,0 +1,31 @@
+/* .vitepress/theme/custom.css */
+:root {
+	--vt-c-brand: #df5d64;
+	--vt-c-brand-highlight: #ff7f8e;
+	--vt-c-green: #df5d64;
+	--vt-nav-height: 4.5rem;
+	--vt-c-bg-soft: transparent;
+}
+.VPNavBar {
+	border-bottom: none !important;
+	box-shadow: 0 1px 4px #0000000d;
+	backdrop-filter: blur(14px);
+}
+.VPNavBarTitle {
+	font-size: 1.15rem !important;
+	align-items: center;
+	display: flex;
+	font-weight: normal !important;
+}
+.VPNavBarTitle .logo {
+	height: 2.4rem;
+	padding-right: 8px;
+}
+
+.VPFooter {
+	display: none;
+}
+
+.nav-links {
+	padding: 0 !important;
+}

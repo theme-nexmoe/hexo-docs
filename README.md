@@ -1,33 +1,25 @@
-# Website
+# vuejs.org
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## Contributing
 
-## Installation
+This site is built with [VitePress](https://github.com/vuejs/vitepress) and depends on [@vue/theme](https://github.com/vuejs/vue-theme). Site content is written in Markdown format located in `src`. For simple edits, you can directly edit the file on GitHub and generate a Pull Request.
 
-```console
-yarn install
+For local development, [pnpm](https://pnpm.io/) is preferred as package manager:
+
+```bash
+pnpm i
+pnpm run dev
 ```
 
-## Local Development
+This project requires Node.js to be `v14.0.0` or higher, because we use new JavaScript features in our code, such as optional chaining.
 
-```console
-yarn start
-```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Working on the content
 
-## Build
+- See VitePress docs on supported [Markdown Extensions](https://vitepress.vuejs.org/guide/markdown.html) and the ability to [use Vue syntax inside markdown](https://vitepress.vuejs.org/guide/using-vue.html).
 
-```console
-yarn build
-```
+- See the [Writing Guide](https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md) for our rules and recommendations on writing and maintaining documentation content.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Working on the theme
 
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If changes need to made for the theme, check out the [instructions for developing the theme alongside the docs](https://github.com/vuejs/vue-theme#developing-with-real-content).
