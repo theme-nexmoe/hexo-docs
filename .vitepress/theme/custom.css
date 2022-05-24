@@ -6,11 +6,6 @@
 	--vt-nav-height: 4.5rem;
 	--vt-c-bg-soft: transparent;
 }
-.VPNavBar {
-	border-bottom: none !important;
-	box-shadow: 0 1px 4px #0000000d;
-	backdrop-filter: blur(14px);
-}
 .VPNavBarTitle {
 	font-size: 1.15rem !important;
 	align-items: center;
