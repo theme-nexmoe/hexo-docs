@@ -32,7 +32,7 @@ hexo s --debug
 
 > 在服务启动的过程，注意观察命令行输出是否有任何异常信息，如果你碰到问题，这些信息将帮助他人更好的定位错误。
 
-当命令行输出下述内容时说明 Hexo 已经监听在本机的 4000 端口，使用浏览器访问 [http://localhost:4000](http://localhost:4000/) ，检查站点是否正确运行
+当命令行输出下述内容时说明 Hexo 已经监听在本机的 4000 端口，使用浏览器访问 `http://localhost:4000/` ，检查站点是否正确运行
 
 ```shell
 INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.

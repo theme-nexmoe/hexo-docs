@@ -221,7 +221,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     [
       'script',
       {
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-FNQYESQCJ6',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-HG5GSWYXHL',
         async: 'true'
       }
     ],
