@@ -232,6 +232,12 @@ export default defineConfigWithTheme<ThemeConfig>({
     nav,
     sidebar,
 
+    algolia: {
+      indexName: 'nexmoe',
+      appId: 'BH4D9OD16A',
+      apiKey: '97d0ec378a6740430371860e28d1f485',
+    },
+
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/nexmoe' },
       {
