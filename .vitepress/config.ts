@@ -225,7 +225,8 @@ export default defineConfigWithTheme<ThemeConfig>({
         async: 'true'
       }
     ],
-    ['script', { src: '/gtag.js' }]
+    ['script', { src: '/gtag.js' }],
+    ['script', { async: "true", crossorigin: "anonymous", src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2058306854838448' }]
   ],
 
   themeConfig: {
