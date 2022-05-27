@@ -26,6 +26,4 @@
 
 [Farewell 2020! - 折影轻梦 (nexmoe.com)](https://nexmoe.com/1W4AR7.html)
 
-![image-20210721124005258](gallery/image-20210721124005258.png)
-
 ![image-20210721124020479](gallery/image-20210721124020479.png)

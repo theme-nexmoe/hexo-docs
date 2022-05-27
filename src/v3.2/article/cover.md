@@ -6,7 +6,6 @@
 
 最新版本已可忽略长度高度，忽略后会默认图片比例为 16:9
 
-
 ```yaml
 ---
 title: Hello World
@@ -16,5 +15,3 @@ coverWidth: 1200
 coverHeight: 750
 ---
 ```
-
-![image-20210721123651208](cover/image-20210721123651208.png)
