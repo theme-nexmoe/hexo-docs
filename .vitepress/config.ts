@@ -73,7 +73,7 @@ export const sidebar = {
       items: [
         {
           text: 'Front-matter',
-          link: '/v3.2/config/front-matter'
+          link: '/v3.2/article/front-matter'
         },
         {
           text: '归档页面',
