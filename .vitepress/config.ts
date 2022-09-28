@@ -1,6 +1,4 @@
-import { defineConfigWithTheme } from 'vitepress'
-import type { Config as ThemeConfig } from '@vue/theme'
-import baseConfig from '@vue/theme/config'
+import { defineConfig } from 'vitepress'
 
 const nav = [
   {
@@ -186,16 +184,14 @@ export const sidebar = {
         {
           text: "Links",
           link: "/v4.0/article/py",
-        },  
+        },
       ],
     },
     */
   ]
 }
 
-export default defineConfigWithTheme<ThemeConfig>({
-  extends: baseConfig,
-
+export default defineConfig({
   lang: 'zh',
   title: 'Hexo Theme Nexmoe',
   description: '🔥 A rather special Hexo theme',
