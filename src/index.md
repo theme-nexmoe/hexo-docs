@@ -9,8 +9,8 @@ hero:
       text: Get Started
       link: /v4.0/
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/theme-nexmoe/hexo-theme-nexmoe
+      text: Demo
+      link: https://nexmoe.com/
 
 features:
   - icon: ⚡️
