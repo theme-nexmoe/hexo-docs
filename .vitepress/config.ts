@@ -160,34 +160,44 @@ export const sidebar = {
         }
         */
       ]
-    }
-    /*
+    },
     {
       text: "Posts & Pages",
       items: [
         {
           text: "Front-matter",
-          link: "/v4.0/article/front-matter",
+          link: "/v4.0/post/front-matter",
         },
-        {
-          text: "Archive",
-          link: "/v4.0/article/archive",
-        },
-        {
-          text: "Cover",
-          link: "/v4.0/article/cover",
-        },
+        // {
+        //   text: "Archive",
+        //   link: "/v4.0/article/archive",
+        // },
+        // {
+        //   text: "Cover",
+        //   link: "/v4.0/article/cover",
+        // },
         {
           text: "Gallery",
-          link: "/v4.0/article/gallery",
+          link: "/v4.0/post/gallery",
+        },
+        {
+          text: "Gallery Pro",
+          link: "/v4.0/post/gallery_pro",
         },
         {
           text: "Links",
-          link: "/v4.0/article/py",
+          link: "/v4.0/post/links",
         },
       ],
     },
-    */
+    {
+      items: [
+        {
+          text: 'Contribution',
+          link: '/v4.0/contribution'
+        },
+      ]
+    }
   ]
 }
 
