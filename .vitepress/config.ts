@@ -251,6 +251,10 @@ export default defineConfig({
         icon: 'github',
         link: 'https://github.com/theme-nexmoe/hexo-theme-nexmoe'
       }
-    ]
+    ],
+
+    editLink: {
+      pattern: 'https://github.com/theme-nexmoe/hexo-docs/edit/master/src/:path'
+    }
   }
 })
