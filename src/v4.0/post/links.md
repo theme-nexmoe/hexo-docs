@@ -5,7 +5,7 @@
 Add the following to your `.md` file
 
 ```markdown
-{% links %}
+{% links shuffle %}
 [
  {
   "title": "折影轻梦",
