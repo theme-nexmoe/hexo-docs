@@ -240,8 +240,8 @@ export default defineConfig({
     sidebar,
 
     algolia: {
-      indexName: 'nexmoe',
-      appId: 'BH4D9OD16A',
+      indexName: 'hexo-theme-nexmoe',
+      appId: 'S9BOK57U2G',
       apiKey: '97d0ec378a6740430371860e28d1f485',
     },
 
