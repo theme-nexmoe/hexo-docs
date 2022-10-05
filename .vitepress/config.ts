@@ -242,7 +242,7 @@ export default defineConfig({
     algolia: {
       indexName: 'hexo-theme-nexmoe',
       appId: 'S9BOK57U2G',
-      apiKey: '97d0ec378a6740430371860e28d1f485',
+      apiKey: 'e5357b66d7955f7d39a2dbd8f80d681b',
     },
 
     socialLinks: [
