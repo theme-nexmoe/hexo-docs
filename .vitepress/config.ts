@@ -63,6 +63,10 @@ export default defineConfig({
     editLink: {
       pattern:
         'https://github.com/theme-nexmoe/hexo-docs/edit/master/src/:path'
+    },
+
+    footer: {
+      copyright: `Copyright © ${ new Date().getFullYear() } Nexmoe`,
     }
   }
 })
