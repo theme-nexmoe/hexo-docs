@@ -165,17 +165,15 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             {
               text: '样式',
               link: '/zh/v4.0/config/style'
-            }
-            /*
+            },
             {
-              text: 'Icon',
+              text: '图标',
               link: '/zh/v4.0/config/icon'
             },
             {
-              text: 'Search',
+              text: '搜索',
               link: '/zh/v4.0/config/search'
             }
-            */
           ]
         },
         {
@@ -185,14 +183,6 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
               text: 'Front-matter',
               link: '/zh/v4.0/post/front-matter'
             },
-            // {
-            //   text: "Archive",
-            //   link: "/v4.0/article/archive",
-            // },
-            // {
-            //   text: "Cover",
-            //   link: "/v4.0/article/cover",
-            // },
             {
               text: 'Gallery',
               link: '/zh/v4.0/post/gallery'
@@ -204,14 +194,26 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             {
               text: 'Links',
               link: '/zh/v4.0/post/links'
-            }
+            },
+            {
+              text: "归档",
+              link: "/zh/v4.0/post/archive",
+            },
+            {
+              text: "封面",
+              link: "/zh/v4.0/post/cover",
+            },
           ]
         },
         {
           items: [
             {
-              text: 'Contribution',
+              text: '贡献',
               link: '/zh/v4.0/contribution'
+            },
+            {
+              text: '遇到问题怎么办？',
+              link: '/zh/v4.0/question'
             }
           ]
         }
