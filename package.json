@@ -9,8 +9,7 @@
     "preinstall": "npx only-allow pnpm"
   },
   "dependencies": {
-    "@vue/theme": "^1.0.2",
-    "vitepress": "v1.0.0-alpha.17",
+    "vitepress": "1.0.0-alpha.45",
     "vue": "^3.2.33"
   },
   "devDependencies": {
