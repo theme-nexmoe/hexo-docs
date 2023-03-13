@@ -1,7 +1,7 @@
 # Quick Start
 
 :::info
-You can use this project [Hexo Theme Nexmoe Example](https://github.com/theme-nexmoe/hexo-theme-nexmoe-example) as an example.
+You can use this project <https://github.com/nexmoe/nexmoe.com> as an example.
 :::
 
 Before using Nexmoe, you should read [Hexo Docs](https://hexo.io/docs/index.html), finish installation of Hexo and Initialize your project by editing `config.yml`.
