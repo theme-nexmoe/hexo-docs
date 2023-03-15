@@ -1,5 +1,9 @@
 # 快速入门
 
+:::tip
+你可以参考 https://github.com/nexmoe/nexmoe.com 进行配置
+:::
+
 在使用 Nexmoe 之前，您应该阅读 [Hexo Docs](https://hexo.io/docs/index.html)，完成 Hexo 的安装并通过编辑 `config.yml` 初始化项目。
 
 ## 安装 Nexmoe
