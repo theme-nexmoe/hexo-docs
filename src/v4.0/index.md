@@ -11,7 +11,7 @@ Before using Nexmoe, you should read [Hexo Docs](https://hexo.io/docs/index.html
 Run the following command to install Nexmoe:
 
 ```shell
-npm install hexo-theme-nexmoe
+npm install hexo-theme-nexmoe @nexmoe/hexo-renderer-inferno
 ```
 
 ## Use Nexmoe
