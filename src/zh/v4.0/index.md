@@ -11,7 +11,7 @@
 运行以下命令以安装 Nexmoe：
 
 ```shell
-npm install hexo-theme-nexmoe @nexmoe/hexo-renderer-inferno
+npm install hexo-theme-nexmoe hexo-renderer-inferno
 ```
 
 ## 使用 Nexmoe
