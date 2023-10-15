@@ -1,20 +1,14 @@
 import { defineConfig } from 'vitepress'
 import { zhConfig } from './config/zh'
-import { enConfig } from './config/en'
 
 export default defineConfig({
   srcDir: 'src',
   locales: {
     root: {
-      label: 'English',
-      lang: 'en-US',
-      ...enConfig
-    },
-    zh: {
       label: '中文简体',
       lang: 'zh-CN', // optional, will be added  as `lang` attribute on `html` tag
       ...zhConfig
-    }
+    },
   },
   head: [
     [

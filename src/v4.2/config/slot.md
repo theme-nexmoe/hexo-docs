@@ -23,7 +23,7 @@ slotSidebar 的值将添加到侧边栏中。
 ## slotComment
 
 slotComment 的值将添加到评论区域。
-您可以在此处添加任何注释系统。如 Disqus、Gitment、Gitalk、Valine
+您可以在此处添加任何评论系统。如 Disqus、Gitment、Gitalk、Valine 等等...
 
 ## slotCopyright
 

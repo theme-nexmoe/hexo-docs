@@ -1,9 +1,3 @@
----
-sidebar_position: 10
----
-
-
-
 # 遇到问题怎么办？
 
 ## 1、查阅 Hexo 官方文档
@@ -29,5 +23,3 @@ sidebar_position: 10
 有使用问题请在这里提问：<https://github.com/theme-nexmoe/hexo-theme-nexmoe/discussions>
 
 也可以进主题讨论群 614621637：[Hexo Nexmoe 主题](https://jq.qq.com/?_wv=1027&k=1YL6FmUS)
-
-Telegram 群：<https://t.me/hexo_theme_nexmoe>

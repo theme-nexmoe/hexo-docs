@@ -22,9 +22,3 @@
 ## Pull Request（PR）
 
 [提交新功能](https://github.com/theme-nexmoe/hexo-theme-nexmoe/pulls)
-
-## 参与社区
-
-参与社区讨论，同样也是对该项目的支持与贡献
-
-<https://github.com/theme-nexmoe/hexo-theme-nexmoe/discussions>

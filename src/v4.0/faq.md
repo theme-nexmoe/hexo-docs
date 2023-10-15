@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# FAQ
+# 常见问题
 
-## Syntax Highlighting
+## 语法突出显示
 
-Edit `_config.yml` in root directory to enable Syntax Highlighting.
+在根目录中编辑`_config.yml`以启用语法高亮显示。
 
 ```yaml
 highlight:
@@ -15,4 +15,4 @@ highlight:
   auto_detect: true
 ```
 
-See more: [Syntax Highlighting | Hexo](https://hexo.io/docs/syntax-highlight#Highlight-js)
+查看更多信息：[Syntax Highlighting | Hexo](https://hexo.io/docs/syntax-highlight#Highlight-js)

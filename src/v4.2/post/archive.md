@@ -17,13 +17,23 @@ layout: archives
 
 参考：<https://hexo.io/zh-cn/docs/front-matter>
 
-### 关于分类的图片
+## 演示
+
+[文章归档 - 折影轻梦 (nexmoe.com)](https://nexmoe.com/archive.html)
+
+![image-20210721123359847](archive/image-20210721123359847.png)
+
+## 关于分类的图片
+
+分类的图片来自该分类最新文章的图片。
+
+### 解析
 
 有的朋友布置完之后发现自己的页面是这样的：  
 ![image.png](https://s2.loli.net/2022/04/11/JGga2t5dnyNTDsI.png)  
 而大佬的页面长这样：  
 ![image-20210721123359847-acb36390920d2ff88ad0e8db50fd1e32.png](https://s2.loli.net/2022/04/11/bYvMsq8lLTVxBg4.png)  
-~~于是你开始思考。。。~~  
+~~于是你开始思考。~~  
 好吧，如果你打开主题目录下的`layout\archives.ejs`文件，可以看到这样一段代码：  
 
 ```html
@@ -46,10 +56,4 @@ layout: archives
 ```
 
 通过分析代码，我们发现，分类的图片来自最新的使用该分类的文章的图片。  
-其实，可以更改这一行代码`<% if(post.cover!==undefined && coverx==""){ %>`,删去`&& coverx==""`,再在`<% let coverx = "" %>`中`coverx = ""`的双引号中间放入一个图片的URL或者随机图片API的URL以作到该分类下文章无单独设置的封面时使用某一/随机图片作为封面。
-
-## 演示
-
-[文章归档 - 折影轻梦 (nexmoe.com)](https://nexmoe.com/archive.html)
-
-![image-20210721123359847](archive/image-20210721123359847.png)
+其实，可以更改这一行代码`<% if(post.cover!==undefined && coverx==""){ %>`, 删去`&& coverx==""`, 再在`<% let coverx = "" %>`中`coverx = ""`的双引号中间放入一个图片的 URL 或者随机图片 API 的 URL 以作到该分类下文章无单独设置的封面时使用某一/随机图片作为封面。

@@ -13,6 +13,7 @@ highlight:
   enable: true
   hljs: true
   auto_detect: true
+  warp: true
 ```
 
 查看更多信息：[Syntax Highlighting | Hexo](https://hexo.io/docs/syntax-highlight#Highlight-js)

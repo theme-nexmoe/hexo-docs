@@ -1,19 +1,18 @@
-# Style
+# 样式
 
-## Use
+## 使用
 
-You should set the value of `customStyles` in `_config.nexmoe.yml` in root directory.
-
-The default config is as follows:
+您应该在根目录中的 `_config.nexmoe.yml` 中设置 `customStyles` 的值。
+默认配置如下：
 
 ```yaml
 customStyles:
   - custom.css
 ```
 
-And then, you should create a file named `custom.css` in the path named `source`. So that you can write your own custom styles.
+然后，您应该在名为 `source` 的路径中创建一个名为 `custom.css` 的文件。这样您就可以编写自己的自定义样式。
 
-## Default Variables
+## 默认变量
 
 ```css
 :root {

@@ -3,27 +3,28 @@ layout: home
 
 hero:
   name: Hexo Theme Nexmoe
-  text: I'm a little special 🔥 
+  text: 一个比较特别的 Hexo 主题 🔥
   actions:
     - theme: brand
-      text: Get Started
-      link: /v4.0/
+      text: 开始
+      link: /v4.2/
     - theme: alt
       text: Demo
       link: https://nexmoe.com/
 
 features:
   - icon: ⚡️
-    title: Minimalism
-    details: There is not much weight
+    title: 极简主义
+    details: 不太重
   - icon: 🏞️
-    title: Friendly to Pictures
-    details: Picture Waterfall Flow, Detail of light box, Image lazy loading
+    title: 图片友好
+    details: 图片瀑布流，灯箱，图片懒加载
   - icon: 🛠️
-    title: Strong Personalization
-    details: You can customize your own Nexmoe theme
+    title: 强个性化
+    details: 您可以自定义您自己的 Nexmoe 主题
 
 ---
+
 
 <script setup>
 import Feature from "/components/Feature.vue"

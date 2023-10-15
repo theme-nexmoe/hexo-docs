@@ -1,7 +1,7 @@
 # 快速入门
 
 :::tip
-你可以参考 https://github.com/nexmoe/nexmoe.com 进行配置
+你可以参考 <https://github.com/nexmoe/nexmoe.com> 进行配置
 :::
 
 在使用 Nexmoe 之前，您应该阅读 [Hexo Docs](https://hexo.io/docs/index.html)，完成 Hexo 的安装并通过编辑 `config.yml` 初始化项目。
@@ -16,7 +16,12 @@ npm install hexo-theme-nexmoe hexo-renderer-inferno
 
 ## 使用 Nexmoe
 
-在项目的根目录中编辑 `_config.yml`。将名为 `theme` 的键的值更改为 `nexmoe`。
+1. 方法1 在项目的根目录中编辑 `_config.yml`。将名为 `theme` 的键的值更改为 `nexmoe`。
+2. 方法2
+  
+```shell
+hexo config theme nexmoe
+```
 
 ## 配置 Nexmoe
 
@@ -52,3 +57,5 @@ npm update hexo-theme-nexmoe
 ```
 
 更新后，您应该在变更日志中看到更改的内容。并编辑 `_config.nexmoe.yml` 以匹配新版本。
+
+配置文件在此处参考：<https://github.com/theme-nexmoe/hexo-theme-nexmoe/blob/master/source/_config.yml>

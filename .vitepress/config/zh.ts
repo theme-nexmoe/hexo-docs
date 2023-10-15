@@ -17,40 +17,45 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
     nav: [
       {
         text: '快速开始',
-        link: '/zh/v4.0/',
-        activeMatch: `^/zh/v4.0/`
+        link: '/v4.2/',
+        activeMatch: `^/v4.2/`
       },
       {
         text: '版本',
         items: [
           {
+            text: 'v4.2',
+            link: '/v4.2/',
+            activeMatch: `^/v4.2/`
+          },
+          {
             text: 'v4.0',
-            link: '/zh/v4.0/',
-            activeMatch: `^/zh/v4.0/`
+            link: '/v4.0/',
+            activeMatch: `^/v4.0/`
           },
           {
             text: 'v3.2',
-            link: '/zh/v3.2/',
-            activeMatch: `^/zh/v3.2/`
+            link: '/v3.2/',
+            activeMatch: `^/v3.2/`
           }
         ]
       }
     ],
     sidebar: {
-      '/zh/v3.2/': [
+      '/v3.2/': [
         {
           items: [
             {
               text: '欢迎',
-              link: '/zh/v3.2/'
+              link: '/v3.2/'
             },
             {
               text: '快速开始',
-              link: '/zh/v3.2/start'
+              link: '/v3.2/start'
             },
             {
               text: '常见问题',
-              link: '/zh/v3.2/faq'
+              link: '/v3.2/faq'
             }
           ]
         },
@@ -59,23 +64,23 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
           items: [
             {
               text: '评论系统',
-              link: '/zh/v3.2/config/comment'
+              link: '/v3.2/config/comment'
             },
             {
               text: '分析系统',
-              link: '/zh/v3.2/config/analysis'
+              link: '/v3.2/config/analysis'
             },
             {
               text: '图标',
-              link: '/zh/v3.2/config/icon'
+              link: '/v3.2/config/icon'
             },
             {
               text: '搜索',
-              link: '/zh/v3.2/config/search'
+              link: '/v3.2/config/search'
             },
             {
               text: '样式与颜色',
-              link: '/zh/v3.2/config/style-color'
+              link: '/v3.2/config/style-color'
             }
           ]
         },
@@ -84,23 +89,23 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
           items: [
             {
               text: 'Front-matter',
-              link: '/zh/v3.2/article/front-matter'
+              link: '/v3.2/article/front-matter'
             },
             {
               text: '归档页面',
-              link: '/zh/v3.2/article/archive'
+              link: '/v3.2/article/archive'
             },
             {
               text: '文章封面图',
-              link: '/zh/v3.2/article/cover'
+              link: '/v3.2/article/cover'
             },
             {
               text: '瀑布流图片',
-              link: '/zh/v3.2/article/gallery'
+              link: '/v3.2/article/gallery'
             },
             {
               text: '友情链接',
-              link: '/zh/v3.2/article/py'
+              link: '/v3.2/article/py'
             }
           ]
         },
@@ -109,11 +114,11 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
           items: [
             {
               text: '插入音乐',
-              link: '/zh/v3.2/hexo/aplayer'
+              link: '/v3.2/hexo/aplayer'
             },
             {
               text: 'RSS',
-              link: '/zh/v3.2/hexo/rss'
+              link: '/v3.2/hexo/rss'
             }
           ]
         },
@@ -121,33 +126,33 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
           items: [
             {
               text: '版本升级规范',
-              link: '/zh/v3.2/specification'
+              link: '/v3.2/specification'
             },
             {
               text: '参与贡献',
-              link: '/zh/v3.2/contribution'
+              link: '/v3.2/contribution'
             },
             {
               text: '迁移至NPM版本',
-              link: '/zh/v3.2/migration'
+              link: '/v3.2/migration'
             },
             {
               text: '遇到问题怎么办？',
-              link: '/zh/v3.2/question'
+              link: '/v3.2/question'
             }
           ]
         }
       ],
-      '/zh/v4.0/': [
+      '/v4.0/': [
         {
           items: [
             {
               text: '快速开始',
-              link: '/zh/v4.0/'
+              link: '/v4.0/'
             },
             {
               text: '常见问题',
-              link: '/zh/v4.0/faq'
+              link: '/v4.0/faq'
             }
           ]
         },
@@ -156,23 +161,23 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
           items: [
             {
               text: '配置文件',
-              link: '/zh/v4.0/config/yml'
+              link: '/v4.0/config/yml'
             },
             {
               text: '插槽',
-              link: '/zh/v4.0/config/slot'
+              link: '/v4.0/config/slot'
             },
             {
               text: '样式',
-              link: '/zh/v4.0/config/style'
+              link: '/v4.0/config/style'
             },
             {
               text: '图标',
-              link: '/zh/v4.0/config/icon'
+              link: '/v4.0/config/icon'
             },
             {
               text: '搜索',
-              link: '/zh/v4.0/config/search'
+              link: '/v4.0/config/search'
             }
           ]
         },
@@ -181,27 +186,27 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
           items: [
             {
               text: 'Front-matter',
-              link: '/zh/v4.0/post/front-matter'
+              link: '/v4.0/post/front-matter'
             },
             {
               text: 'Gallery',
-              link: '/zh/v4.0/post/gallery'
+              link: '/v4.0/post/gallery'
             },
             {
               text: 'Gallery Pro',
-              link: '/zh/v4.0/post/gallery_pro'
+              link: '/v4.0/post/gallery_pro'
             },
             {
               text: 'Links',
-              link: '/zh/v4.0/post/links'
+              link: '/v4.0/post/links'
             },
             {
               text: "归档",
-              link: "/zh/v4.0/post/archive",
+              link: "/v4.0/post/archive",
             },
             {
               text: "封面",
-              link: "/zh/v4.0/post/cover",
+              link: "/v4.0/post/cover",
             },
           ]
         },
@@ -209,11 +214,91 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
           items: [
             {
               text: '贡献',
-              link: '/zh/v4.0/contribution'
+              link: '/v4.0/contribution'
             },
             {
               text: '遇到问题怎么办？',
-              link: '/zh/v4.0/question'
+              link: '/v4.0/question'
+            }
+          ]
+        }
+      ],
+      '/v4.2/': [
+        {
+          items: [
+            {
+              text: '快速开始',
+              link: '/v4.2/'
+            },
+            {
+              text: '常见问题',
+              link: '/v4.2/faq'
+            }
+          ]
+        },
+        {
+          text: '主题配置',
+          items: [
+            {
+              text: '配置文件',
+              link: '/v4.2/config/yml'
+            },
+            {
+              text: '插槽',
+              link: '/v4.2/config/slot'
+            },
+            {
+              text: '样式',
+              link: '/v4.2/config/style'
+            },
+            {
+              text: '图标',
+              link: '/v4.2/config/icon'
+            },
+            {
+              text: '搜索',
+              link: '/v4.2/config/search'
+            }
+          ]
+        },
+        {
+          text: 'Posts & Pages',
+          items: [
+            {
+              text: 'Front-matter',
+              link: '/v4.2/post/front-matter'
+            },
+            {
+              text: 'Gallery',
+              link: '/v4.2/post/gallery'
+            },
+            {
+              text: 'Gallery Pro',
+              link: '/v4.2/post/gallery_pro'
+            },
+            {
+              text: 'Links',
+              link: '/v4.2/post/links'
+            },
+            {
+              text: "归档",
+              link: "/v4.2/post/archive",
+            },
+            {
+              text: "封面",
+              link: "/v4.2/post/cover",
+            },
+          ]
+        },
+        {
+          items: [
+            {
+              text: '贡献',
+              link: '/v4.2/contribution'
+            },
+            {
+              text: '遇到问题怎么办？',
+              link: '/v4.2/question'
             }
           ]
         }

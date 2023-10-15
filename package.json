@@ -3,18 +3,18 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "dev": "vitepress",
+    "preinstall": "npx only-allow pnpm",
+    "dev": "vitepress dev",
     "build": "vitepress build",
-    "serve": "vitepress serve",
-    "preinstall": "npx only-allow pnpm"
+    "preview": "vitepress preview"
   },
   "dependencies": {
-    "vitepress": "1.0.0-alpha.45",
     "vue": "^3.2.33"
   },
   "devDependencies": {
     "@types/markdown-it": "^12.2.3",
-    "@types/node": "^16.9.1"
+    "@types/node": "^16.9.1",
+    "vitepress": "1.0.0-rc.22"
   },
   "pnpm": {
     "peerDependencyRules": {

@@ -1,20 +1,18 @@
----
-sidebar_position: 4
----
-
 # 搜索
+
+:::warning
+文档部分内容可能已过时，请以实际效果为准。
+:::
 
 ## **开始**
 
-Nexmoe现在支持三种搜索引擎，网页搜索引擎（如百度、Bing）、本地搜索和 Swiftype
+Nexmoe 现在支持三种搜索引擎，网页搜索引擎（如百度、Bing）、本地搜索和 Swiftype
 
 ## **使用网页搜索引擎**
 
 - 打开你的博客配置文件，将`search`项下的`type`设置为`engine`，将`url`改为可用于直接搜索的网址
 
 例：
-
-
 
 ```yaml
 search: 
@@ -27,8 +25,6 @@ search:
 - 打开你的博客配置文件，将`search`项下的`type`设置为`local`
 
 例：
-
-
 
 ```yaml
 search: 
@@ -63,7 +59,7 @@ jsonContent:
 ## **使用 Swiftype**
 
 - 打开你的博客配置文件，将`search`项下的`type`设置为`swiftype`
-- 转到你的Swiftype引擎仪表盘，进入`Install Search`，在你的安装代码（`install code`）的如图位置得到你的`swiftype-id`，并填入博客配置文件`search`项下的`id`项
+- 转到你的 Swiftype 引擎仪表盘，进入`Install Search`，在你的安装代码（`install code`）的如图位置得到你的`swiftype-id`，并填入博客配置文件`search`项下的`id`项
 
 ![img](search/a7d385bac726fa4ffcdc3c744e86ad1d127eedaf.jpeg)
 

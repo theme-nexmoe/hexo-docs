@@ -1,55 +1,54 @@
-# Quick Start
+# 快速入门
 
-:::info
-You can use this project <https://github.com/nexmoe/nexmoe.com> as an example.
+:::tip
+你可以参考 https://github.com/nexmoe/nexmoe.com 进行配置
 :::
 
-Before using Nexmoe, you should read [Hexo Docs](https://hexo.io/docs/index.html), finish installation of Hexo and Initialize your project by editing `config.yml`.
+在使用 Nexmoe 之前，您应该阅读 [Hexo Docs](https://hexo.io/docs/index.html)，完成 Hexo 的安装并通过编辑 `config.yml` 初始化项目。
 
-## Install Nexmoe
+## 安装 Nexmoe
 
-Run the following command to install Nexmoe:
+运行以下命令以安装 Nexmoe：
 
 ```shell
 npm install hexo-theme-nexmoe hexo-renderer-inferno
 ```
 
-## Use Nexmoe
+## 使用 Nexmoe
 
-Edit `_config.yml` in the root directory of your project. Change the value of the key named `theme` to `nexmoe`.
+在项目的根目录中编辑 `_config.yml`。将名为 `theme` 的键的值更改为 `nexmoe`。
 
-## Configure Nexmoe
+## 配置 Nexmoe
 
-Edit `_config.nexmoe.yml` in the root directory of your project.
+在项目的根目录中编辑 `_config.nexmoe.yml`。
 
-## Run Nexmoe
+## 运行 Nexmoe
 
-Use the following command to run Nexmoe:
+使用以下命令运行 Nexmoe：
 
 ```shell
 hexo server --debug
 ```
 
 :::tip
-During service startup, watch the command line output for any exception messages, which will help others better locate errors if you run into problems.
+在服务启动期间，查看命令行输出中的任何异常消息，这将帮助其他人在遇到问题时更好地查找错误。
 :::
-
-When the command line outputs the following, it means that Hexo is listening on port 4000 on the local machine. Use your browser to access `http://localhost:4000/` to check if the site is running correctly
+当命令行输出以下内容时，表示 Hexo 正在本地机器上的端口 4000 上侦听。使用浏览器访问 `http://localhost:4000/` 检查站点是否正常运行
 
 ```shell
 INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 ```
 
 :::tip
-If you're having trouble using it, try searching through the documentation or raising an [issue](https://github.com/nexmoe/hexo-theme-nexmoe/issues/new) on GitHub
+如果您在使用它时遇到问题，请尝试搜索文档或提出 [问题](https://github.com/nexmoe/hexo-theme-nexmoe/issues/new) 在 GitHub 上
 :::
 
-## Update Nexmoe
+## 更新 Nexmoe
 
-Update Nexmoe by running the following command:
+运行以下命令更新 Nexmoe：
 
 ```shell
 npm update hexo-theme-nexmoe
 ```
 
-After updating, you should see what's changed in the changelog. And edit `_config.nexmoe.yml` to match the new version.
+更新后，您应该在变更日志中看到更改的内容。并编辑 `_config.nexmoe.yml` 以匹配新版本。
