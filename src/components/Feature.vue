@@ -1,12 +1,10 @@
 <template>
   <section>
-    <div class="container">
-      <header>
-        <h2 v-html="feature.title"></h2>
-      </header>
-      <div class="picture">
-        <img loading="lazy" :src="feature.picture" />
-      </div>
+    <header>
+      <h2 v-html="feature.title"></h2>
+    </header>
+    <div class="picture">
+      <img loading="lazy" :src="feature.picture" />
     </div>
   </section>
 </template>
@@ -18,12 +16,6 @@ defineProps({
 </script>
 
 <style scoped>
-.container {
-  display: flex;
-  flex-direction: column;
-  margin: 0 auto;
-  max-width: 1152px;
-}
 section {
   padding: 0 24px;
 }

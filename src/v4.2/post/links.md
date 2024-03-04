@@ -1,4 +1,4 @@
-# Links
+# 友情链接
 
 ## Use
 
@@ -19,4 +19,6 @@ Add the following to your `.md` file
 
 ## Demo
 
-<https://nexmoe.com/PY.html>
+预览：<https://nexmoe.com/PY.html>
+
+源码：<https://github.com/nexmoe/nexmoe.com/blob/main/source/PY.md?plain=1>

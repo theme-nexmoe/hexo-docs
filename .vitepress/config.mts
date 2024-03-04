@@ -46,6 +46,18 @@ export default defineConfig({
   ],
 
   themeConfig: {
+    search: {
+      provider: 'local',
+      options: {
+        _render(src, env, md) {
+          const html = md.render(src, env)
+          if (env.frontmatter?.search === false) return ''
+          if (!env.relativePath.startsWith('v4.2')) return ''
+          return html
+        }
+      }
+    },
+
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/nexmoe' },
       {
@@ -60,7 +72,7 @@ export default defineConfig({
     },
 
     footer: {
-      copyright: `Copyright © ${ new Date().getFullYear() } Nexmoe`,
+      copyright: `Copyright © ${new Date().getFullYear()} Nexmoe`,
     }
   }
 })

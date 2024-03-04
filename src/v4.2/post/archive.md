@@ -19,6 +19,8 @@ layout: archives
 
 ## 演示
 
+源码：<https://github.com/nexmoe/nexmoe.com/blob/main/source/archive.md?plain=1>
+
 [文章归档 - 折影轻梦 (nexmoe.com)](https://nexmoe.com/archive.html)
 
 ![image-20210721123359847](archive/image-20210721123359847.png)

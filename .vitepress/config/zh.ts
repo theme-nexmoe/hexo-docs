@@ -244,11 +244,11 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
               link: '/v4.2/config/yml'
             },
             {
-              text: '插槽',
+              text: '插槽（第三方集成）',
               link: '/v4.2/config/slot'
             },
             {
-              text: '样式',
+              text: '自定义样式',
               link: '/v4.2/config/style'
             },
             {
